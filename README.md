@@ -36,7 +36,7 @@ $ source .bashrc
 $ tailme 
 
 # to tail your log file in prod 
-$ tailme 
+$ tailmeprod
 
 # to find a file in the dev tree 
 $ findinfiledev / 'some search string' 
