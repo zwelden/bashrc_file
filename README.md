@@ -10,14 +10,14 @@ $ vim ~/.bashrc
 ``` 
 
 2.) 
-copy contents of bashrc_file 
+copy contents of .bashrc from this repository
 
 3.) paste in the contents of the copied file 
 ```
 <esc> :a 
 <cmd-v>
 ``` 
-Then change lines XX to match your personal log file name
+Then change lines 31-24 to match your personal log file name and username
 
 4.) save file
 ```
