@@ -12,19 +12,19 @@ $ vim ~/.bashrc
 2.) 
 copy contents of bashrc_file 
 
-3.) 
+3.) paste in the contents of the copied file 
 ```
 <esc> :a 
 <cmd-v>
 ``` 
 Then change lines XX to match your personal log file name
 
-4.)
+4.) save file
 ```
 <esc> :wq
 ``` 
 
-4.)
+4.) update shell .bashrc source
 ```shell
 $ source .bashrc 
 ```
