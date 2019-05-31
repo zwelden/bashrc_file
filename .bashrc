@@ -31,4 +31,4 @@ function findinfileprod () {
 alias tailme='tail -f /dev_logs/zcw_dev_testing.log'
 alias tailmeprod='tail -f /prod_logs/zcw_dev_testing.log'
 
-export PS1="\[\e[36m\][</>@\h \W]\$ \[\e[m\]"
+export PS1="\[\e[36m\][zach@\h \W]\$ \[\e[m\]"
