@@ -5,6 +5,7 @@ My bashrc file
 
 1.) create a bashrc file (backing up old one first)
 ```shell
+$ cd ~
 $ mv ~/.bashrc ~/.bashrc.bak   
 $ vim ~/.bashrc
 ``` 
