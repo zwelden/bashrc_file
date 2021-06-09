@@ -18,7 +18,6 @@ copy contents of .bashrc from this repository
 <esc> :a 
 <cmd-v>
 ``` 
-Then change lines 31-24 to match your personal log file name and username
 
 4.) save file
 ```
@@ -31,21 +30,4 @@ $ source .bashrc
 ```
 
 ## Usage
-```shell 
-# to tail your log file in dev
-$ tailme 
-
-# to tail your log file in prod 
-$ tailmeprod
-
-# to find a file in the dev tree 
-$ findinfiledev / 'some search string' 
-
-# to find a file in the prod tree 
-$ findinfileprod / 'some search string'
-
-# to find a fiel in a dev sub folder 
-$ findinfiledev /dashboard/apps/ 'some search string' 
-
-# etc. etc. etc.
-```
+WIP
